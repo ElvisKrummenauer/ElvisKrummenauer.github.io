@@ -1,26 +1,60 @@
-h1{text-align: center;
-font-style: italic;
-color: brown;
-}
-body{background-color: rgb(139, 168, 159);}
-h3{
-font-size: 30px;
-font-style: italic;
-color: brown;
-text-align: center;
-}
-.linkedin{
-    color: brown;
+h1 {
     text-align: center;
-
+    font-style: italic;
+    color: purple;
 }
-.linkedin{
+
+body {
+    background-image: url(./th.jpeg);
+    ;
+}
+
+h3 {
+    font-size: 30px;
+    font-style: italic;
+    color: purple;
+    text-align: center;
+}
+
+p {
+    color: aliceblue;
+    height: ;
+}
+
+ul {
+    color: aliceblue;
+    width: 40%;
+    margin-top: 100px;
+}
+
+.linkedin {
+    color: rgb(0, 0, 0);
+    text-align: center;
     border: none;
-    padding:10px ;
-    background-color: rgb(204, 186, 186);
+    padding: 10px;
+    background-color: rgb(175, 63, 209);
     text-decoration: none;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-transform: uppercase;
     cursor: pointer;
     border-radius: 10px;
+    position: absolute;
+    top: 800px;
+    left: 45%;
+    right: ;
+    bottom: ;
+    margin: ;
+
+}
+
+.minha-foto {
+    border-radius: 50%;
+    height: 400px;
+}
+
+.minha-descricao {
+    width: 20%;
+    position: absolute;
+    left: 500px;
+    top: 200px;
 }
